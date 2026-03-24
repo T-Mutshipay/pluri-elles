@@ -97,8 +97,14 @@
                     <h3 class="text-4xl font-headline font-extrabold text-primary">Une approche fondée sur la compréhension
                         de votre activité</h3>
                     <p class="text-on-surface-variant text-lg leading-relaxed">
-                        Chaque secteur a ses propres défis. Notre méthodologie commence par une immersion totale dans vos
-                        processus métiers pour proposer des solutions qui font sens opérationnellement.
+                        Notre accompagnement repose sur une analyse de l'activité de nos clients, de leurs en jeux métiers
+                        de leur environnement et des attentes de leurs parties prenantes. <br>
+                        Cette approche nous permet de proposer des solutions adaptées, utiles et directement mobilisables
+                        tenant compte à la fois des ambitions de leur l'organisation et de ses contraintes opérationnelles.
+                        <br>
+                        Nous privélégions une démarche structurée, progressive et pragmatique, afin d'aider chaque clien à
+                        avancer avec méthode, à clarifier ses priorités et à contruire une stratégie RSE en cohérence avec
+                        sa réalité.
                     </p>
                 </div>
                 <div class="relative">
@@ -165,23 +171,23 @@
             </div>
         </section>
         <section class="py-32 px-8 max-w-7xl mx-auto text-center">
-            <span class="text-secondary font-label text-sm font-bold tracking-[0.2em] uppercase mb-8 block">Notre Valeur
-                Ajoutée</span>
             <h2 class="text-5xl font-headline font-black text-primary mb-12">Engagement</h2>
             <div class="flex flex-col md:flex-row justify-center gap-16 items-center">
                 <div class="space-y-2">
-                    <p class="text-6xl font-headline font-black text-secondary">01</p>
-                    <p class="font-bold text-xl text-primary">Proximité</p>
-                </div>
-                <div class="hidden md:block w-24 h-px bg-outline-variant"></div>
-                <div class="space-y-2">
-                    <p class="text-6xl font-headline font-black text-secondary">02</p>
-                    <p class="font-bold text-xl text-primary">Rigueur</p>
-                </div>
-                <div class="hidden md:block w-24 h-px bg-outline-variant"></div>
-                <div class="space-y-2">
-                    <p class="text-6xl font-headline font-black text-secondary">03</p>
-                    <p class="font-bold text-xl text-primary">Innovation</p>
+                    <p class="text-4xl font-headline font-black text-secondary">Faire de la RSE un cadre d'action utile et
+                        structurant.</p>
+                    <br>
+                    <div class="">
+                        <p class="text-on-surface-variant text-lg leading-relaxed">
+                            notre ambition et d'aider nos clients à faire de la RSE un véritable cadre d'action, au service
+                            de
+                            leur dévéloppement et de leur résponsabilité. <br>
+                            au délà de la définition d'une stratégie, nous accompagnons la mise en cohérence des intentions,
+                            des
+                            priorités et des actions, afin de rendre la démarche plus structurée, plus crédibles et plus
+                            durable. <br>
+                        </p>
+                    </div>
                 </div>
             </div>
         </section>
@@ -199,10 +205,10 @@
                         Prenons rendez-vous pour échanger sur vos ambitions et définir ensemble les premières étapes de
                         votre succès durable.
                     </p>
-                    <button
+                    <a href="{{ route('contact') }}"
                         class="bg-secondary-container text-on-secondary-container px-10 py-5 rounded-md font-black text-xl hover:scale-105 transition-transform">
                         Parlons de votre projet
-                    </button>
+                    </a>
                 </div>
             </div>
         </section>

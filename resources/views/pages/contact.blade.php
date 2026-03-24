@@ -155,16 +155,5 @@
             </div>
         </div>
     </section>
-    <section
-        class="w-full h-96 bg-surface-container-highest relative grayscale hover:grayscale-0 transition-all duration-700 overflow-hidden">
-        <div class="absolute inset-0 flex items-center justify-center pointer-events-none z-10">
-            <div class="bg-white p-6 shadow-2xl rounded-lg text-center">
-                <p class="font-headline font-bold text-primary">Pluri’elles SAS</p>
-                <p class="text-xs font-label uppercase text-on-surface-variant tracking-wider">Siège Social — Paris</p>
-            </div>
-        </div>
-        <img alt="Plan de Paris" class="w-full h-full object-cover opacity-60"
-            data-alt="Abstract aerial map view of Paris city streets" data-location="Paris"
-            src="https://lh3.googleusercontent.com/aida-public/AB6AXuBgHESpjWZtZ0bq1xKQ0MNzeoqu_ko4Z1ichVRcbMKdXTEvmfRXxtxGuBdcQ-vdfBqtnsBmslg2bptowK2keDNS28Il4-ng8EFUMwX5ijWr5HCfdPnFbzhMSvHKUpiEv3FKrWgEFJAIBBbTGhkVQtCIsIyWRc_5EOcXNdTKkGsSRwuhDNwtUURbrPULfWcBCihHRQqgCSazoqAXP_bUKQID-vYm6XQoRG3sY6ydr1D-3LlwciN6Dnvk5z3pwJ47n6Y1hil0yKn6bsA" />
-    </section>
+
 @endsection
