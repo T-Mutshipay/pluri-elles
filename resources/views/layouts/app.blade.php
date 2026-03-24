@@ -33,7 +33,7 @@
 
     <x-navbar />
 
-    <main class="pt-24">
+    <main class="flex-1 w-full max-w-7xl mx-auto ">
         @yield('content')
     </main>
 
