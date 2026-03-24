@@ -38,8 +38,7 @@
             </div>
 
             <p class="mt-6 text-white/80 font-body text-lg max-w-2xl mx-auto leading-relaxed">
-                Des solutions agiles et structurées pour transformer vos enjeux RSE en leviers de performance durable.
-            </p>
+                Des préstations RSE adaptées au besoin des entreprises et des organisations des divers secteurs. </p>
         </div>
 
         <div class="absolute bottom-0 left-0 w-full h-16 bg-surface clip-path-banner"></div>
@@ -53,15 +52,13 @@
     <section class="relative py-24 overflow-hidden">
         <div class="max-w-7xl mx-auto px-8 relative z-10">
             <div class="max-w-3xl">
-                <span
-                    class="font-label text-on-surface-variant uppercase tracking-widest text-[0.75rem] mb-4 block">Expertise
-                    et Conseil</span>
                 <h1 class="font-headline font-extrabold text-[3.5rem] leading-[1.1] text-primary tracking-tight mb-8">
                     Des prestations RSE adaptées à vos ambitions territoriales.
                 </h1>
                 <p class="text-on-surface-variant text-lg leading-relaxed max-w-2xl font-body">
-                    Nous accompagnons les acteurs publics et privés dans la définition et l'exécution de leurs
-                    stratégies d'impact, avec une approche pragmatique et ancrée dans le réel.
+                    Nous proposons de prestation de conseil et d'accompagnement et d'appui opérationnel pour aider les
+                    eentreprises, les organisations ainsi que les acteurs publics ou privés à structurer, déployer et suivre
+                    les démarches RSE.
                 </p>
             </div>
         </div>
@@ -69,124 +66,150 @@
     </section>
     <section class="py-16 bg-surface-container-low">
         <div class="max-w-7xl mx-auto px-8">
-            <div class="flex flex-col md:flex-row gap-12 items-start">
-                <div class="md:w-1/2">
-                    <h2 class="font-headline font-bold text-3xl text-primary leading-snug">Un accompagnement modulable
-                        pour chaque étape de votre transformation.</h2>
-                </div>
-                <div class="md:w-1/2">
-                    <p class="text-on-surface-variant leading-relaxed">
-                        Que vous soyez au début de votre réflexion RSE ou en phase d'accélération opérationnelle, nos
-                        services sont conçus pour s'imbriquer dans votre structure existante sans friction. Nous
-                        privilégions l'action concrète sur les rapports théoriques.
-                    </p>
-                </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-start">
+                <h2 class="font-headline font-bold text-3xl text-primary leading-snug">
+                    Un accompagnement modulable en fonction de vos enjeux.
+                </h2>
+
+                <p class="text-on-surface-variant leading-relaxed">
+                    Chaque organisation aborde la RSE à partir d'une situtation particulière, iée à son activité, à son
+                    niveua d'avancement, à ses ressources internes et aux attentes auxquelles elle doit répondre. <br>
+                    Pluri'elles accompagne ses clients aux differentes étapes de leur démarche RSE, qu'il s'agisse d'initier
+                    une réflexion, de structurer un cadre d'action, de consolider des pratiques existantes ou d'assurer un
+                    suivi plus régulier. <br>
+                    Notre intervention à pour objet d'apporter de repaires clairs, une méthode de travail adaptée et un
+                    appui opérationnel, afin de permettre à nos cliens d'inscrire leur démarche dans un cadre cohérent,
+                    lisible et durable.
+                </p>
             </div>
         </div>
     </section>
-    <section class="py-24">
+    <section class="py-16 bg-surface-container-lowest">
         <div class="max-w-7xl mx-auto px-8">
-            <div class="grid grid-cols-1 md:grid-cols-12 gap-8">
+            <div class="mb-12 border-l-4 border-primary pl-6">
+                <h2 class="text-3xl font-headline font-bold text-primary">Nos Services & Expertises</h2>
+                <p class="text-on-surface-variant mt-2">Un accompagnement complet, de l'audit à l'exécution opérationnelle.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
                 <div
-                    class="md:col-span-7 bg-editorial-gradient rounded-xl p-10 text-white flex flex-col justify-between shadow-lg relative overflow-hidden group">
-                    <div class="relative z-10">
-                        <span class="material-symbols-outlined text-secondary-fixed text-4xl mb-6"
-                            data-icon="rocket_launch">rocket_launch</span>
-                        <h3 class="font-headline font-bold text-3xl mb-4">Agence d'Exécution de Projets</h3>
-                        <p class="text-blue-100 text-lg mb-8 max-w-lg">
-                            Nous ne nous contentons pas de conseiller : nous opérons. Gestion de projets complexes,
-                            coordination de parties prenantes et suivi opérationnel rigoureux.
-                        </p>
-                    </div>
-                    <ul class="relative z-10 space-y-4 mb-8">
-                        <li class="flex items-center gap-3 text-sm font-medium">
-                            <span class="material-symbols-outlined text-secondary-fixed" data-icon="check_circle"
-                                data-weight="fill">check_circle</span>
-                            Pilotage de projets à fort impact social
-                        </li>
-                        <li class="flex items-center gap-3 text-sm font-medium">
-                            <span class="material-symbols-outlined text-secondary-fixed" data-icon="check_circle"
-                                data-weight="fill">check_circle</span>
-                            Coordination d'écosystèmes territoriaux
-                        </li>
-                    </ul>
-                    <a class="relative z-10 self-start px-6 py-3 bg-secondary-fixed text-on-secondary-container font-bold rounded-md hover:translate-x-2 transition-transform duration-200"
-                        href="#">
-                        Découvrir notre méthode
-                    </a>
-                    <div
-                        class="absolute top-0 right-0 -mr-20 -mt-20 w-80 h-80 bg-white/5 rounded-full blur-3xl group-hover:bg-white/10 transition-colors duration-500">
-                    </div>
-                </div>
-                <div
-                    class="md:col-span-5 bg-surface-container-lowest border-l-4 border-primary p-8 flex flex-col justify-center">
-                    <span class="material-symbols-outlined text-primary mb-4" data-icon="fact_check">fact_check</span>
+                    class="bg-surface-container-low p-8 rounded-xl border-t-4 border-primary shadow-sm hover:shadow-md transition-shadow h-full flex flex-col">
+                    <span class="material-symbols-outlined text-primary mb-4 text-3xl"
+                        data-icon="fact_check">fact_check</span>
                     <h3 class="font-headline font-bold text-xl mb-3 text-primary">Audit RSE</h3>
                     <p class="text-on-surface-variant text-sm leading-relaxed">
-                        Évaluation complète de votre maturité extra-financière et identification des leviers de
-                        performance durable.
+                        Service 1 – Audit RSE
+                        Nous assistons nos clients dans l’évaluation de leur situation au regard des enjeux RSE, en vue de
+                        leur permettre de disposer d’un état des lieux structuré et exploitable.
+                        Cette prestation vise à analyser les pratiques existantes, à identifier les enjeux prioritaires et à
+                        mettre en évidence les points d’appui ainsi que les axes de progression. Elle permet de disposer
+                        d’une base claire pour orienter la suite de la démarche et définir les premières priorités de
+                        travail.
                     </p>
                 </div>
-                <div class="md:col-span-4 bg-surface-container-low p-8 rounded-lg">
-                    <span class="material-symbols-outlined text-primary mb-4" data-icon="handshake">handshake</span>
+
+                <div
+                    class="bg-surface-container-low p-8 rounded-xl border-t-4 border-primary shadow-sm hover:shadow-md transition-shadow h-full flex flex-col">
+                    <span class="material-symbols-outlined text-primary mb-4 text-3xl"
+                        data-icon="handshake">handshake</span>
                     <h3 class="font-headline font-bold text-xl mb-3 text-primary">Sous-traitance RSE</h3>
-                    <p class="text-on-surface-variant text-sm">
-                        Déléguez la gestion de vos obligations et initiatives RSE à nos experts pour une efficacité
-                        maximale.
+                    <p class="text-on-surface-variant text-sm leading-relaxed">
+                        Avec Plurielles SAS, libérez votre potentiel en nous confiant la gestion opérationnelle de votre
+                        stratégie RSE. De l'audit de conformité à la mise en œuvre de vos engagements sociaux et
+                        environnementaux, nous agissons comme votre département RSE externalisé. Nous garantissons une
+                        traçabilité rigoureuse et un impact mesurable pour renforcer votre image de marque.
                     </p>
                 </div>
+
                 <div
-                    class="md:col-span-8 bg-surface-container p-1 bg-gradient-to-br from-secondary/10 to-transparent rounded-xl">
-                    <div
-                        class="bg-surface-container-lowest h-full w-full rounded-[0.625rem] p-10 flex flex-col md:flex-row gap-8 items-center border border-secondary/20">
-                        <div class="md:w-2/3">
-                            <span class="material-symbols-outlined text-secondary text-5xl mb-6"
-                                data-icon="psychology">psychology</span>
-                            <h3 class="font-headline font-extrabold text-3xl mb-4 text-primary">Accompagnement &amp;
-                                Booster Entrepreneuriat</h3>
-                            <p class="text-on-surface-variant text-lg leading-relaxed mb-6">
-                                Propulsez vos projets innovants. Nous offrons un cadre structurant pour transformer vos
-                                idées en entreprises résilientes et impactantes.
-                            </p>
-                            <button
-                                class="px-8 py-3 bg-secondary text-on-primary font-bold rounded-md hover:shadow-lg transition-all duration-300">Rejoindre
-                                le Booster</button>
-                        </div>
-                        <div class="md:w-1/3 w-full">
-                            <img alt="Entrepreneurs collaborating" class="rounded-lg object-cover h-64 w-full shadow-md"
-                                data-alt="Dynamic teamwork in a modern light-filled office space"
-                                src="https://lh3.googleusercontent.com/aida-public/AB6AXuCshvS3hdV0gjwmVQhWe0amSQnY34nv16Y9dytkLYhXV3u_bhEPIInUxQvnidiP28CIN7h0eIvAnfjDqCd5TL9byRTStiGc1-PLNWh4oR5QJcdja9K2DPUnPpvL8t7lXu3uSRav_DwWjn3H38JA1qlQ7eZ2dLkH0WFw8nCfHaraLI6K6FE_v-N13Zb0ayBrDK1lQaCK_FXKGO8hFhpC8am_hWky26hFOoptvvJv-DeQwq7lPzTGtAfpyJ51LnkKGxlq-6xo7HRIVZs" />
-                        </div>
-                    </div>
-                </div>
-                <div
-                    class="md:col-span-4 bg-surface-container-low p-8 rounded-lg flex flex-col border-b-2 border-primary/20">
-                    <span class="material-symbols-outlined text-primary mb-4" data-icon="account_tree">account_tree</span>
+                    class="bg-surface-container-low p-8 rounded-xl border-t-4 border-primary shadow-sm hover:shadow-md transition-shadow h-full flex flex-col">
+                    <span class="material-symbols-outlined text-primary mb-4 text-3xl"
+                        data-icon="account_tree">account_tree</span>
                     <h3 class="font-headline font-bold text-xl mb-3 text-primary">Structuration Stratégie RSE</h3>
-                    <p class="text-on-surface-variant text-sm">
-                        Définition de votre raison d'être et alignement de vos processus métiers sur les enjeux du
-                        développement durable.
+                    <p class="text-on-surface-variant text-sm leading-relaxed">
+                        Nous accompagnons nos clients dans la définition des orientations de leur démarche RSE, afin de leur
+                        permettre de formaliser un cadre d’action cohérent avec leur activité, leur organisation et leurs
+                        responsabilités.
+                        Notre intervention peut porter sur l’identification des enjeux structurants, la hiérarchisation des
+                        priorités, la formalisation des axes de travail et l’élaboration d’une feuille de route. L’objectif
+                        est de permettre à l’organisation de disposer d’une stratégie claire, progressive et adaptée à sa
+                        réalité.
                     </p>
                 </div>
+
                 <div
-                    class="md:col-span-4 bg-surface-container-low p-8 rounded-lg flex flex-col border-b-2 border-primary/20">
-                    <span class="material-symbols-outlined text-primary mb-4" data-icon="gavel">gavel</span>
-                    <h3 class="font-headline font-bold text-xl mb-3 text-primary">Accompagnement Conformité</h3>
-                    <p class="text-on-surface-variant text-sm">
-                        Mise en conformité avec les réglementations nationales et européennes (CSRD, Devoir de
-                        vigilance).
+                    class="bg-surface-container-low p-8 rounded-xl border-t-4 border-primary shadow-sm hover:shadow-md transition-shadow h-full flex flex-col">
+                    <span class="material-symbols-outlined text-primary mb-4 text-3xl"
+                        data-icon="precision_manufacturing">precision_manufacturing</span>
+                    <h3 class="font-headline font-bold text-xl mb-3 text-primary"> Agence d'Exécution de Projets</h3>
+                    <p class="text-on-surface-variant text-sm leading-relaxed">
+                        ​Nous ne nous contentons pas de conseiller : nous exécutons. Que ce soit pour des projets de
+                        développement, des infrastructures ou des initiatives de terrain, Plurielles prend en charge le
+                        pilotage intégral, la logistique et le suivi technique. Nous transformons vos cahiers des charges en
+                        résultats tangibles, dans le respect de vos délais et budgets
                     </p>
                 </div>
+
                 <div
-                    class="md:col-span-4 bg-surface-container-low p-8 rounded-lg flex flex-col border-b-2 border-primary/20">
-                    <span class="material-symbols-outlined text-primary mb-4"
+                    class="bg-surface-container-low p-8 rounded-xl border-t-4 border-primary shadow-sm hover:shadow-md transition-shadow h-full flex flex-col">
+                    <span class="material-symbols-outlined text-primary mb-4 text-3xl"
+                        data-icon="rocket_launch">rocket_launch</span>
+                    <h3 class="font-headline font-bold text-xl mb-3 text-primary">Accompagnement & Booster (Entrepreneuriat)
+                    </h3>
+                    <p class="text-on-surface-variant text-sm leading-relaxed">
+                        ​Plurielles SAS booste votre croissance, que vous soyez une start-up en création ou une société
+                        établie. Notre pôle offre un mentorat stratégique pour les porteurs de projets et des solutions
+                        d'optimisation de services pour les entreprises existantes. Nous auditons vos processus et injectons
+                        l'innovation nécessaire pour propulser vos performances vers de nouveaux sommets.
+                    </p>
+                </div>
+
+                <div
+                    class="bg-surface-container-low p-8 rounded-xl border-t-4 border-primary shadow-sm hover:shadow-md transition-shadow h-full flex flex-col">
+                    <span class="material-symbols-outlined text-primary mb-4 text-3xl"
+                        data-icon="verified_user">verified_user</span>
+                    <h3 class="font-headline font-bold text-xl mb-3 text-primary">Accompagnement à la conformité</h3>
+                    <p class="text-on-surface-variant text-sm leading-relaxed">
+                        Nous accompagnons nos clients dans la prise en compte de leurs obligations légales, réglementaires
+                        et contractuelles en matière de RSE, en vue de leur permettre de mieux comprendre les exigences
+                        applicables et d’y répondre de manière structurée.
+                        Cet accompagnement a vocation à sécuriser certains volets de la démarche, à faciliter la
+                        formalisation des réponses attendues et à renforcer la cohérence entre les engagements affichés, les
+                        pratiques existantes et les attentes externes.
+                    </p>
+                </div>
+
+                <div
+                    class="bg-surface-container-low p-8 rounded-xl border-t-4 border-primary shadow-sm hover:shadow-md transition-shadow h-full flex flex-col">
+                    <span class="material-symbols-outlined text-primary mb-4 text-3xl"
                         data-icon="settings_suggest">settings_suggest</span>
                     <h3 class="font-headline font-bold text-xl mb-3 text-primary">Assistance Opérationnelle</h3>
-                    <p class="text-on-surface-variant text-sm">
-                        Support technique et administratif ponctuel pour garantir la continuité de vos actions de
-                        terrain.
+                    <p class="text-on-surface-variant text-sm leading-relaxed">
+                        Nous assistons nos clients dans la mise en œuvre de leur démarche RSE, afin de leur permettre
+                        d’assurer un suivi plus régulier des actions engagées et de mieux organiser leur déploiement.
+                        Cette prestation peut porter sur l’appui à la formalisation de documents, le suivi de plans
+                        d’action, la coordination de certains travaux ou la préparation d’elements utiles au pilotage. Elle
+                        vise à soutenir l’avancement de la démarche dans des conditions concrètes et maîtrisées.
                     </p>
                 </div>
+
+                <div
+                    class="bg-surface-container-low p-8 rounded-xl border-t-4 border-primary shadow-sm hover:shadow-md transition-shadow h-full flex flex-col">
+                    <span class="material-symbols-outlined text-primary mb-4 text-3xl"
+                        data-icon="admin_panel_settings">admin_panel_settings</span>
+                    <h3 class="font-headline font-bold text-xl mb-3 text-primary">Gestion externalisée de missions RSE</h3>
+                    <p class="text-on-surface-variant text-sm leading-relaxed">
+                        Nous accompagnons nos clients en assurant, de manière externalisée, tout ou partie de certaines
+                        missions RSE, en vue de leur permettre de bénéficier d’un appui structuré sans mobiliser
+                        immédiatement une ressource dédiée en interne.
+                        Cette modalité d’intervention permet d’assurer une continuité dans le suivi, de renforcer
+                        l’organisation de la démarche et de soutenir les travaux engagés dans la durée, selon un cadre
+                        souple et adapté aux besoins de la structure.
+                    </p>
+                </div>
+
             </div>
         </div>
     </section>
