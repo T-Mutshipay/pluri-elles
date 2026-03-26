@@ -10,17 +10,20 @@
         <div class="swiper heroSlider absolute inset-0 w-full h-full z-0">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="images/hero/hero.jpg" class="w-full h-full object-cover opacity-50" alt="Pluri'elles 1">
+                    <img src="{{ asset('images/hero/hero.jpg') }}" class="w-full h-full object-cover opacity-50"
+                        alt="Pluri'elles 1">
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/hero/partners.jpg" class="w-full h-full object-cover opacity-50" alt="Pluri'elles 2">
+                    <img src="{{ asset('images/hero/partners.jpg') }}" class="w-full h-full object-cover opacity-50"
+                        alt="Pluri'elles 2">
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/hero/Agrobusiness.jpg" class="w-full h-full object-cover opacity-50"
+                    <img src="{{ asset('images/hero/Agrobusiness.jpg') }}" class="w-full h-full object-cover opacity-50"
                         alt="Pluri'elles 3">
                 </div>
                 <div class="swiper-slide">
-                    <img src="videos/0130.mp4" class="w-full h-full object-cover opacity-50" alt="Pluri'elles 4">
+                    <img src="{{ asset('videos/0130.mp4') }}" class="w-full h-full object-cover opacity-50"
+                        alt="Pluri'elles 4">
                 </div>
             </div>
         </div>
@@ -134,7 +137,7 @@
                         class="bg-gray-100 rounded-2xl p-2 transform rotate-10 shadow-2xl transition-transform hover:scale-105 group-hover:rotate-0 duration-500">
                         <img alt="Marceline Kaozi - Pluri'elles SAS"
                             class="rounded-xl w-full h-[600px] md:h-[650px] object-cover shadow-inner"
-                            src="images/kaozi.jpg" />
+                            src="{{ asset('images/kaozi.jpg') }}" />
                     </div>
                     <div
                         class="absolute -bottom-4 -left-4 md:-left-8 bg-white p-6 rounded-xl shadow-2xl border-b-4 border-[#D4AF37] min-w-[260px]">
@@ -152,7 +155,7 @@
                 <div
                     class="relative order-2 md:order-1 transform rotate-10 shadow-2xl transition-transform  hover:scale-105 hover:rotate-0 duration-500">
                     <img alt="Réunion stratégique" class="rounded-2xl shadow-2xl relative z-10 border border-gray-200"
-                        src="images/48192262.jpg" />
+                        src="{{ asset('images/48192262.jpg') }}" />
                     <div class="absolute -top-4 -left-4 w-full h-full border-2 border-[#D4AF37] rounded-2xl z-0"></div>
                 </div>
                 <div class="order-1 md:order-2 space-y-6">
@@ -194,7 +197,7 @@
                 <div
                     class="relative transform rotate-10 shadow-2xl transition-transform  hover:scale-105 hover:rotate-0 duration-500">
                     <img alt="Analyse stratégique" class="rounded-2xl shadow-2xl w-[90%] relative z-10"
-                        src="images/06.jpg" />
+                        src="{{ asset('images/06.jpg') }}" />
                     <div class="absolute -bottom-4 -right-4 w-24 h-24 bg-[#D4AF37] rounded-full z-0 opacity-20"></div>
                 </div>
             </div>

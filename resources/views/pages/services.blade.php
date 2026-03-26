@@ -5,7 +5,8 @@
 @section('content')
     <section class="relative h-[450px] flex items-center justify-center mt-6">
         <div class="absolute inset-0 overflow-hidden">
-            {{-- <img alt="Expertise RSE Pluri'elles" class="w-full h-full object-cover scale-105" src="images/banierre/crew.jpg" /> --}}
+            <img alt="Expertise RSE Pluri'elles" class="w-full h-full object-cover scale-105"
+                src="{{ asset('images/banierre/crew.jpg') }}" />
 
             <div class="absolute inset-0 bg-slate-900/60"></div>
             <div class="absolute inset-0 bg-gradient-to-b from-primary/80 via-transparent to-primary/90"></div>
